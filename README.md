@@ -1,10 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=Venom&text=Jamin's_github&color=1a1b27&fontColor=628fda&&fontAlign=60)
+![header](https://capsule-render.vercel.app/api?type=Venom&text=Jamin's_github&color=1a1b27&fontColor=628fda)
 <br><br><br>
 
 <div align="center">
-  안녕하세요! 저는 React를 통해 프론트엔드 개발자로 성장하고자 하는 개발자입니다. <br>
-  한번 배운 기술을 빠르게 익히고 적용하는 데 자신이 있으며, 새로운 언어나 라이브러리에 대한 탐구심과 학습욕구가 강해 <br>
-  최신 트렌드에 민감하게 대응할 수 있습니다.
+  안녕하세요! 지식 탐험에서 행복을 찾는 프론트엔드 개발자 신자민 입니다.
   <br><br><br>
   
   # 🎮Stacks🎮
@@ -33,6 +31,7 @@
   <br><br>
   -----
   # 🎖My stats🎖
-  ![Jamminggu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaminggu&theme=tokyonight&show_icons=true)     
+  ![Jamminggu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaminggu&theme=tokyonight&show_icons=true) 
+  <br><br><br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaminggu&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </div>
