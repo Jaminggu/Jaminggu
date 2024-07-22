@@ -34,4 +34,8 @@
   ![Jamminggu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaminggu&theme=tokyonight&show_icons=true) 
   <br><br><br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaminggu&layout=compact&theme=tokyonight&card_width=450px&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
+<br><br>
+  -----
+  ## 🏳‍🌈 My Hits 🏳‍🌈 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaminggu%2Fhit-counter&count_bg=%2364F759&title_bg=%23555555&icon=micro-dot-blog.svg&icon_color=%23EFEFEF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
+
