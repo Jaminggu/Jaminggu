@@ -33,5 +33,5 @@
   # 🎖My stats🎖
   ![Jamminggu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaminggu&theme=tokyonight&show_icons=true) 
   <br><br><br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaminggu&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaminggu&layout=compact&theme=tokyonight&card_width=450px&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 </div>
